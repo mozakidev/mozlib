@@ -8,7 +8,7 @@ Mozlib is a library written in Python 3
 pip install mozlib
 ```
 
-## Examples
+## Example
 ```
 import mozlib
 
